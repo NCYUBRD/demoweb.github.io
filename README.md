@@ -12,6 +12,26 @@ summary(template)
 
 [網址的敘述](http://www.google.com)
 
+
+
+使用 img 語法縮放圖片
+<img src="https://github.com/NCYUBRD/demoweb.github.io/raw/master/Dao-HB086.jpg" width="500">
+
+| 姓名 |  年級  | 分數 |
+|-----|--------|-----|
+| K    | 1     | 85  |
+| A    | 1     | 95  |
+| X    | 1     | 65  |
+| A    | 1     | 75  |
+| B    | 1     | 80  |
+
+
+|   | 姓名 |  年級  | 分數 |
+|---| ---- | :-----: | ---:|
+| 1 | aa   | cllla | 35.515 |
+| 2 | a   | clllaaa | 35.51 |
+| 3 | ab   | clllbb | 55.5 |
+
 ## header1
 
 Lorem ipsum dolor sit amet, vix **iusto** *melius* ei. Expetenda voluptatum an est, novum omittam neglegentur cum ne. Sit te nusquam blandit. His vitae veniam aperiam ea. 
