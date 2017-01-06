@@ -12,10 +12,13 @@ summary(template)
 
 [網址的敘述](http://www.google.com)
 
-![picture test](http://raw.github.com/NCYUBRD/demoweb.github.io/master/Dao-HB086.jpg)
-
 
 ![test2](https://github.com/NCYUBRD/demoweb.github.io/raw/master/Dao-HB086.jpg)
+
+
+使用 img 語法縮放圖片
+<img src="https://github.com/NCYUBRD/demoweb.github.io/raw/master/Dao-HB086.jpg" width="500">
+
 
 ## header1
 
