@@ -13,12 +13,24 @@ summary(template)
 [網址的敘述](http://www.google.com)
 
 
-![test2](https://github.com/NCYUBRD/demoweb.github.io/raw/master/Dao-HB086.jpg)
-
 
 使用 img 語法縮放圖片
 <img src="https://github.com/NCYUBRD/demoweb.github.io/raw/master/Dao-HB086.jpg" width="500">
 
+| 姓名 |  年級  | 分數 |
+|-----|--------|-----|
+| K    | 1     | 85  |
+| A    | 1     | 95  |
+| X    | 1     | 65  |
+| A    | 1     | 75  |
+| B    | 1     | 80  |
+
+
+|   | 姓名 |  年級  | 分數 |
+|---| ---- | :-----: | ---:|
+| 1 | aa   | cllla | 35.515 |
+| 2 | a   | clllaaa | 35.51 |
+| 3 | ab   | clllbb | 55.5 |
 
 ## header1
 
