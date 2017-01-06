@@ -12,6 +12,8 @@ summary(template)
 
 [網址的敘述](http://www.google.com)
 
+![picture test](http://raw.github.com/NCYUBRD/demoweb.github.io/master/Dao-HB086.jpg)
+
 ## header1
 
 Lorem ipsum dolor sit amet, vix **iusto** *melius* ei. Expetenda voluptatum an est, novum omittam neglegentur cum ne. Sit te nusquam blandit. His vitae veniam aperiam ea. 
