@@ -12,7 +12,7 @@ summary(template)
 
 [網址的敘述](http://www.google.com)
 
-
+[Chapter 1 範例](/ch1.html)
 
 使用 img 語法縮放圖片
 <img src="https://github.com/NCYUBRD/demoweb.github.io/raw/master/Dao-HB086.jpg" width="500">
